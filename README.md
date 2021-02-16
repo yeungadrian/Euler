@@ -1,2 +1,5 @@
-# Euler
-Project Euler solutions
+# Cyro
+Mathematical / computational problems
+
+### Project Euler
+https://projecteuler.net/

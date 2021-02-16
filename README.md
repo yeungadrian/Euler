@@ -5,6 +5,6 @@ Mathematical / computational problems
 https://projecteuler.net/
 
 ### Language targets
-Python
-Dart
-C++ / Rust (Undecided)
+- Python
+- Dart
+- C++ / Rust (Undecided)

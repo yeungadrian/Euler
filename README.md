@@ -1,4 +1,4 @@
-# Cyro
+# Practice Problems
 Mathematical / computational problems
 
 ### Project Euler
